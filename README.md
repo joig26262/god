@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
