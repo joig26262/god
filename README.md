@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Update Discord and Contributing Guide URLs (#9270)
